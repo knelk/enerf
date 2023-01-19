@@ -16,7 +16,6 @@ from numba import jit
 import numpy as np
 
 from utils.pose_utils import *
-from utils.list_utils import *
 
 ########################
 # Event Loss / Luma Conversion
