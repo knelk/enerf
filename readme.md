@@ -36,6 +36,8 @@ If you use this code or our paper results, please cite our work. <a href="https:
 } 
 ```
 
+## Data
+Datasets were simulated using the [esim](https://github.com/uzh-rpg/rpg_esim). It can be found under [https://vision.in.tum.de/research/enerf](https://vision.in.tum.de/research/enerf).
 
 ## Code
 
