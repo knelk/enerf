@@ -92,7 +92,7 @@ We provide a script for rendering. For example, to render the trained E-NeRF mod
 - If the program sometimes does not start due to CUDA issues (or it gets stuck after loading the model), I often found it useful to clear the cache ``rm -rf ~/.cupy/  ~/.ccache/ ~/.cache/``, and sometimes (``rm -rf __pycache__/ raymarching/__pycache__/ gridencoder/__pycache__/ utils/__pycache__/ nerf/__pycache__/ shencoder/__pycache__/``).
 
 # Acknowledgement
-* torch-ngp: 
+* [torch-ngp](https://github.com/ashawkey/torch-ngp): 
 ```
 @misc{torch-ngp,
     Author = {Jiaxiang Tang},
