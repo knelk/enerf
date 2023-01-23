@@ -120,7 +120,7 @@ We provide a script for rendering. For example, to render the trained E-NeRF mod
     }
     ```
 
-* The TUMVIE dataset:
+* The [tumvie](https://vision.in.tum.de/data/datasets/visual-inertial-event-dataset) dataset:
 ```
 @inproceedings{klenk2021tum,
   title={Tum-vie: The tum stereo visual-inertial event dataset},
@@ -132,7 +132,7 @@ We provide a script for rendering. For example, to render the trained E-NeRF mod
 }
 ```
 
-* The EDS dataset:
+* The [eds](https://rpg.ifi.uzh.ch/eds.html) dataset:
 ```
  @inproceedings{hidalgo2022event,
   title={Event-aided Direct Sparse Odometry},
