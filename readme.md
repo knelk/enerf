@@ -153,3 +153,13 @@ We provide a script for rendering. For example, to render the trained E-NeRF mod
   year = {2021}
 }
 ```
+
+```
+@Article{Rebecq19pami,
+  author        = {Henri Rebecq and Ren{\'{e}} Ranftl and Vladlen Koltun and Davide Scaramuzza},
+  title         = {High Speed and High Dynamic Range Video with an Event Camera},
+  journal       = {{IEEE} Trans. Pattern Anal. Mach. Intell. (T-PAMI)},
+  url           = {http://rpg.ifi.uzh.ch/docs/TPAMI19_Rebecq.pdf},
+  year          = 2019
+}
+```
