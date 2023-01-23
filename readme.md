@@ -25,19 +25,19 @@ E-NeRF computes a Neural Radiance Field from [event-camera](https://arxiv.org/pd
 
 
 
-If you use this code or our paper results, please cite our work. <a href="https://arxiv.org/abs/2208.11300">arXiv</a> <br>
+If you use this code or our paper results, please cite our work. <a href="https://arxiv.org/abs/2208.11300">link to paper</a> <br>
 
 ```
 @article{klenk2022nerf,
   title={E-NeRF: Neural Radiance Fields from a Moving Event Camera},
   author={Klenk, Simon and Koestler, Lukas and Scaramuzza, Davide and Cremers, Daniel},
-  journal={arXiv preprint arXiv:2208.11300},
-  year={2022}
+  journal={IEEE Robotics and Automation Letters},
+  year={2023}
 } 
 ```
 
 ## Data
-Datasets were simulated using the [esim](https://github.com/uzh-rpg/rpg_esim). It can be found under [https://vision.in.tum.de/research/enerf](https://vision.in.tum.de/research/enerf).
+Datasets were simulated using [esim](https://github.com/uzh-rpg/rpg_esim). It can be found under [https://vision.in.tum.de/research/enerf](https://vision.in.tum.de/research/enerf).
 
 ## Code
 
