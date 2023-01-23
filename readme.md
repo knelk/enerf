@@ -143,16 +143,8 @@ We provide a script for rendering. For example, to render the trained E-NeRF mod
 }
 ```
 
-* Creating E2VID reconstructions:
-```
-@InProceedings{Muglikar2021CVPR,
-  author = {Manasi Muglikar and Mathias Gehrig and Daniel Gehrig and Davide Scaramuzza},
-  title = {How to Calibrate Your Event Camera},
-  booktitle = {{IEEE} Conf. Comput. Vis. Pattern Recog. Workshops (CVPRW)},
-  month = {June},
-  year = {2021}
-}
-```
+* E2VID reconstruction were created with this repository: [e2calib](https://github.com/uzh-rpg/e2calib)
+
 
 ```
 @Article{Rebecq19pami,
